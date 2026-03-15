@@ -1,0 +1,5 @@
+com/historico/crud/ClienteCRUD.class
+com/historico/Main.class
+com/historico/db/ConexionBBDD.class
+com/historico/ui/InteraccionUsuario.class
+com/historico/model/Cliente.class
